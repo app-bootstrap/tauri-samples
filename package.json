@@ -1,0 +1,15 @@
+{
+  "name": "tauri-samples",
+  "version": "x.x.x",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "lint": "eslint . --fix",
+    "tauri": "tauri"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^1.0.0-beta.10",
+    "eslint": "7",
+    "eslint-plugin-standard": "^5.0.0"
+  }
+}
